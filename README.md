@@ -11,5 +11,7 @@ Short projects to work with Bun - https://bun.sh/
     - if you don't know how just basically open a powershell and type "wsl"
 3. Recall when in WSL shell "ls", use ls -a to list all files includinghidden ones :)
 4. Install Bun and remember to add your path vars so it can run registered on your system!
+    - heads up you might run into an error saying you need to install unzip package
+    - you also might see an error to libc-bin (hint just install it manually don't rely on dependency installs!)
 5. Have Fun :D - Exciting the Future is here!
 
