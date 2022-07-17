@@ -15,3 +15,12 @@ Short projects to work with Bun - https://bun.sh/
     - you also might see an error to libc-bin (hint just install it manually don't rely on dependency installs!)
 5. Have Fun :D - Exciting the Future is here!
 
+
+6. Tip if you do some compiling and can't figure out your path to your linux files on your system it should be:
+    - "C:\Users\\{YOUR ACCOUNT/USERNAME}\\AppData\\Local\\Packages\\ <br />
+    {YOUR CHOSEN LINUX DISTRIBUTION INSTALLED, it will contain LETTERs and NUMBERS} <br />
+    \\LocalState\\rootfs\\home\\{YOUR LINUX USERNAME}"
+    - For example: "C:\Users\\PoopyFaceTomato\\AppData\\Local\\Packages\\ <br />
+    TheDebianProject.DebianGNULinux_f3198fjfj9qe\LocalState<br />
+    \\LocalState\\rootfs\\home\\{YOUR LINUX USERNAME}"
+
